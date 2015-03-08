@@ -112,3 +112,6 @@ The four plots that you will need to construct are shown below.
 
 ![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
 
+##Instructions to Run the File.
+
+You could source any plot files(plot1.R, plot2.R, plot3.R, plot4.R) but make sure that the directory contains "loadData.R" in which the dataset "household_power_consumption.txt" is loaded. This dataset should also be contained in the same working directory.
